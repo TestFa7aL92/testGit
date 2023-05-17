@@ -6,5 +6,6 @@ public class JakasKlasa2 {
     }
     public void qwe(){
         System.out.println("cipa");
+        System.out.println("fjut");
     }
 }
